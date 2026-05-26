@@ -173,6 +173,14 @@ You could, and for most cases you probably should. This was a learning project. 
 
 ---
 
+## Disclaimer
+
+This tool is intended for legal use only — specifically for accessing your own 
+machines. The author is not responsible for any misuse or damage caused by this 
+software. Use it only on systems you own or have explicit permission to access.
+
+---
+
 ## License
 
 MIT
