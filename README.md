@@ -6,6 +6,10 @@ I built this to remotely access my Raspberry Pi from anywhere without touching m
 
 ---
 
+## Note: This program has been created and tested on Windows x64. However, it can safely be used for linux based os like Raspberry Pi OS which was my main objective. 
+
+---
+
 ## What it does
 
 - Persistent shell session over a Tor hidden service
